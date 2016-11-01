@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Хочу скидку!</string>
+
+    <string name="city_name">Челябинск</string>
+    <string name="city_address">Скидки, акции, афиша</string>
+
+    <string name="about_text">Приложение о скидках и акциях в Челябинске</string>
+
+    <!-- ==================== GOOGLE API KEY STRING ============================================= -->
+    <!--Replace with your own interstitial ad unit id. -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-1816916928493791/3313066466</string>
+    <!-- This is an ad unit ID for a test ad. Replace with your own banner ad unit id. -->
+    <string name="banner_ad_unit_id">ca-app-pub-1816916928493791/5906606061</string>
+    <!-- API KEY FOR MAP -->
+    <string name="api_key">AIzaSyDD8q26Dyjm2GObmQXbpQNPndHBWPzvLq4</string>
+
+    <!-- ==================== OTHERS STRING ==================================================== -->
+    <string name="action_settings">Настройки</string>
+    <string name="search_toolbar_hint">Поиск места&#8230;</string>
+    <string name="dialog_confirm_title">Подтверждение</string>
+    <string name="dialog_about_title">О Приложении</string>
+    <string name="activity_title_settings">Настройки</string>
+    <string name="activity_title_maps">@string/title_nav_all</string>
+    <string name="no_phone_number">Нет номера</string>
+    <string name="no_website">Нет сайта</string>
+    <string name="add_favorite">добавлено в Избранное</string>
+    <string name="remove_favorite">удалено из Избранного</string>
+    <string name="fail_dial_number">Не удается набрать номер</string>
+    <string name="fail_open_website">Не удается открыть сайт</string>
+    <string name="no_internet">"Нет подключения к интернету"</string>
+    <string name="tap_to_reloading">"Нажмите для перезагрузки"</string>
+
+    <string name="dialog_title_permission">Подтверждение разрешений</string>
+    <string name="dialog_content_permission">
+        Чтобы активировать все функции этого приложения, вы должны получить все необходимые разрешения.
+\nПерейти к настройкам разрешений?
+    </string>
+    <string name="dialog_content_gps">
+       GPS отключен в вашем устройстве. Вы хотите включить его?
+    </string>
+
+
+    <!-- ==================== Strings related to Splash Screen ================================= -->
+    <string name="splash_welcome_text">WELCOME</string>
+    <string name="splash_desc_text">
+«Хочу Скидку!» - это быстрый, легкий и удобный способ быть в курсе самых последних распродаж, скидок, акций и событий различных заведений своего города! \nУдобный поиск по названию и на карте позволит Вам найти то, что нужно, по самой низкой цене!\n
+Вопросы и предложения: info@hoski.ru</string>
+
+    <!-- ==================== Settings for Setting ============================================= -->
+    <string name="pref_category_notif">Настройки оповещений</string>
+    <string name="pref_category_other">Другие настройки</string>
+
+    <string name="pref_title_notif">Оповещения</string>
+    <string name="pref_title_ringtone">Рингтон</string>
+    <string name="pref_title_vibrate">Вибрация</string>
+    <string name="pref_title_cache">Очистить Кэш картинок</string>
+    <string name="pref_title_theme">Theme Color</string>
+    <string name="pref_title_rate">Оценить</string>
+    <string name="pref_title_about">О приложении</string>
+    <string name="pref_ringtone_silent">Тишина</string>
+
+    <string name="pref_key_notif">key_notifications</string>
+    <string name="pref_key_ringtone">key_ringtone</string>
+    <string name="pref_key_vibrate">key_vibrate</string>
+    <string name="pref_key_reset_cache">key_reset_cache</string>
+    <string name="pref_key_theme">key_theme</string>
+
+    <string name="message_clear_image_cache">Вы уверены, что хотите очистить кэш картинок?</string>
+    <string name="message_after_clear_image_cache">Кэш картинок успешно очищен</string>
+    <string name="title_dialog_theme">Color Theme</string>
+
+    <!-- ==================== Strings related to Drawer Menu =================================== -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_nav_all">Главная</string>
+    <string name="title_nav_fav">Избранное</string>
+
+    <string name="title_nav_restorant">Кафе/Рестораны</string>
+    <string name="title_nav_coffee">Кофейни</string>
+    <string name="title_nav_sushi">Суши бары/Рестораны</string>
+    <string name="title_nav_pizza">Пиццерии</string>
+    <string name="title_nav_sauna">Бани/Сауны</string>
+    <string name="title_nav_hookah">Кальянные/Бары</string>
+    <string name="title_nav_night">Ночные клубы</string>
+    <string name="title_nav_cinema">Кинотеатры</string>
+    <string name="title_nav_bowling">Боулинг</string>
+    <string name="title_nav_anticaffe">Антикафе</string>
+    <string name="title_nav_sport">Активный спорт</string>
+    <string name="title_nav_gym">Тренажерные залы</string>
+    <string name="title_nav_carwash">Автомойки</string>
+    <string name="title_nav_tire">Шиномонтаж</string>
+    <string name="title_nav_carservice">Автосервис</string>
+    <string name="title_nav_typography">Типография</string>
+    <string name="title_nav_menwear">Мужская одежда</string>
+    <string name="title_nav_womenwear">Женская одежда</string>
+    <string name="title_nav_kidswear">Детская одежда</string>
+    <string name="title_nav_taxi">Такси</string>
+    <string name="title_nav_studying">Обучение</string>
+    <string name="title_nav_theater">Театр</string>
+
+
+    <string name="title_fragment_fav">Избранное</string>
+
+    <!--exit notification-->
+    <string name="press_again_exit_app">Нажмите еще раз для Выхода</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin  Fusce quis mauris a enim sollicitudin, Fusce quis mauris a enim sollicitudin  Fusce quis Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin  Fusce quis mauris a enim sollicitudin, \n \nFusce quis mauris a enim sollicitudin  Fusce quis mauris a enim sollicitudin, Fusce quis mauris a enim sollicitudin  Fusce quis mauris a enim sollicitudinmauris a enim sollicitudin, Fusce quis mauris a enim sollicitudin  Fusce quis mauris a enim sollicitudin  </string>
+
+
+    <string name="sales_tit"><b>Скидки и акции</b></string>
+    <string name="poster_tit"><b>Афиша</b></string>
+
+</resources>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group>
+
+
+            <item
+                android:id="@+id/nav_all"
+                android:title="@string/title_nav_all" />
+
+            <item
+                android:id="@+id/nav_favorites"
+                android:title="@string/title_nav_fav"
+                app:actionLayout="@layout/menu_counter" />
+
+    </group>
+        <item android:title="@string/sales_tit">
+            <menu>
+                <item
+                    android:id="@+id/nav_restorant"
+                    android:title="@string/title_nav_restorant" />
+                <item
+                    android:id="@+id/nav_coffee"
+                    android:title="@string/title_nav_coffee" />
+                <item
+                    android:id="@+id/nav_sushi"
+                    android:title="@string/title_nav_sushi" />
+                <item
+                    android:id="@+id/nav_pizza"
+                    android:title="@string/title_nav_pizza" />
+                <item
+                    android:id="@+id/nav_sauna"
+                    android:title="@string/title_nav_sauna" />
+                <item
+                    android:id="@+id/nav_hookah"
+                    android:title="@string/title_nav_hookah" />
+                <item
+                    android:id="@+id/nav_night"
+                    android:title="@string/title_nav_night" />
+                <item
+                    android:id="@+id/nav_cinema"
+                    android:title="@string/title_nav_cinema" />
+                <item
+                    android:id="@+id/nav_bowling"
+                    android:title="@string/title_nav_bowling" />
+                <item
+                    android:id="@+id/nav_anticaffe"
+                    android:title="@string/title_nav_anticaffe" />
+                <item
+                    android:id="@+id/nav_sport"
+                    android:title="@string/title_nav_sport" />
+                <item
+                    android:id="@+id/nav_gym"
+                    android:title="@string/title_nav_gym" />
+                <item
+                    android:id="@+id/nav_carwash"
+                    android:title="@string/title_nav_carwash" />
+                <item
+                    android:id="@+id/nav_tire"
+                    android:title="@string/title_nav_tire" />
+                <item
+                    android:id="@+id/nav_carservice"
+                    android:title="@string/title_nav_carservice" />
+                <item
+                    android:id="@+id/nav_typography"
+                    android:title="@string/title_nav_typography" />
+                <item
+                    android:id="@+id/nav_menwear"
+                    android:title="@string/title_nav_menwear" />
+                <item
+                    android:id="@+id/nav_womenwear"
+                    android:title="@string/title_nav_womenwear" />
+                <item
+                    android:id="@+id/nav_kidswear"
+                    android:title="@string/title_nav_kidswear" />
+                <item
+                    android:id="@+id/nav_taxi"
+                    android:title="@string/title_nav_taxi" />
+                <item
+                    android:id="@+id/nav_studying"
+                    android:title="@string/title_nav_studying" />
+
+            </menu>
+        </item>
+        <item android:title="@string/poster_tit">
+            <menu>
+                <item
+                    android:id="@+id/nav_cinema_post"
+                    android:title="@string/title_nav_cinema" />
+                <item
+                    android:id="@+id/nav_hookah_post"
+                    android:title="@string/title_nav_hookah" />
+                <item
+                    android:id="@+id/nav_night_post"
+                    android:title="@string/title_nav_night" />
+                <item
+                    android:id="@+id/nav_sport_post"
+                    android:title="@string/title_nav_sport" />
+                <item
+                    android:id="@+id/nav_theater_post"
+                    android:title="@string/title_nav_theater" />
+            </menu>
+        </item>
+
+    <!--Tourist Destination-->
+    <!--Food & Drink-->
+    <!--Hotels-->
+    <!--Entertainment-->
+    <!--Sport-->
+    <!--Shopping-->
+    <!--Transportation-->
+    <!--Religion-->
+    <!--Public Services-->
+    <!--Money-->
+
+</menu>
