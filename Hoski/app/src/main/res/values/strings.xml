@@ -4,7 +4,8 @@
     <string name="city_name">Челябинск</string>
     <string name="city_address">Скидки, акции, афиша</string>
 
-    <string name="about_text">Приложение о скидках и акциях в Челябинске</string>
+    <string name="about_text">«Хочу Скидку!» - это быстрый, легкий и удобный способ быть в курсе самых последних распродаж, скидок, акций и событий различных заведений своего города! \nУдобный поиск по названию и на карте позволит Вам найти то, что нужно, по самой низкой цене!\n
+Вопросы и предложения: info@hoski.ru</string>
 
     <!-- ==================== GOOGLE API KEY STRING ============================================= -->
     <!--Replace with your own interstitial ad unit id. -->
@@ -42,9 +43,7 @@
 
     <!-- ==================== Strings related to Splash Screen ================================= -->
     <string name="splash_welcome_text">WELCOME</string>
-    <string name="splash_desc_text">
-«Хочу Скидку!» - это быстрый, легкий и удобный способ быть в курсе самых последних распродаж, скидок, акций и событий различных заведений своего города! \nУдобный поиск по названию и на карте позволит Вам найти то, что нужно, по самой низкой цене!\n
-Вопросы и предложения: info@hoski.ru</string>
+    <string name="splash_desc_text">Узнавай о скидках, акциях и событиях в один клик!</string>
 
     <!-- ==================== Settings for Setting ============================================= -->
     <string name="pref_category_notif">Настройки оповещений</string>
@@ -85,12 +84,12 @@
     <string name="title_nav_cinema">Кинотеатры</string>
     <string name="title_nav_bowling">Боулинг</string>
     <string name="title_nav_anticaffe">Антикафе</string>
-    <string name="title_nav_sport">Активный спорт</string>
+    <string name="title_nav_sport">Активный отдых</string>
     <string name="title_nav_gym">Тренажерные залы</string>
     <string name="title_nav_carwash">Автомойки</string>
     <string name="title_nav_tire">Шиномонтаж</string>
     <string name="title_nav_carservice">Автосервис</string>
-    <string name="title_nav_typography">Типография</string>
+    <string name="title_nav_typography">Типографии</string>
     <string name="title_nav_menwear">Мужская одежда</string>
     <string name="title_nav_womenwear">Женская одежда</string>
     <string name="title_nav_kidswear">Детская одежда</string>
